@@ -1,0 +1,24 @@
+{
+    "videos": [
+               {
+               "videoURL": "https://d2nsbgzitfs2gt.cloudfront.net/vods3/_definst_/amlst:amazons3/pitch-video-prod/4c20efc6948e0824720d3d3ae257f29a496a1e2b/playlist.m3u8",
+               "imageURL": "https://d1haeak33ufwuv.cloudfront.net/4c20efc6948e0824720d3d3ae257f29a496a1e2b.jpg"
+               },
+               {
+               "videoURL": "https://d2nsbgzitfs2gt.cloudfront.net/vods3_landscape/_definst_/amlst:amazons3/pitch-video-prod/4480800772357e0d44654f8fe6166f08cbea509c/playlist.m3u8",
+               "imageURL": "https://d1haeak33ufwuv.cloudfront.net/4480800772357e0d44654f8fe6166f08cbea509c.jpg"
+               },
+               {
+               "videoURL": "https://d2nsbgzitfs2gt.cloudfront.net/vods3/_definst_/amlst:amazons3/pitch-video-prod/656cd28f71dfd5221f5d7346b19a3119306c06b6/playlist.m3u8",
+               "imageURL": "https://d1haeak33ufwuv.cloudfront.net/656cd28f71dfd5221f5d7346b19a3119306c06b6.jpg"
+               },
+               {
+               "videoURL": "https://d2nsbgzitfs2gt.cloudfront.net/vods3/_definst_/amlst:amazons3/pitch-video-prod/98a13b54d9d1f81448446fdc97285e431312d0c5/playlist.m3u8",
+               "imageURL": "https://d1haeak33ufwuv.cloudfront.net/98a13b54d9d1f81448446fdc97285e431312d0c5.jpg"
+               },
+               {
+               "videoURL": "https://d2nsbgzitfs2gt.cloudfront.net/vods3_landscape/_definst_/amlst:amazons3/pitch-video-prod/22750c962690de6e3e1e5f23c07ad2bdf93606f5/playlist.m3u8",
+               "imageURL": "https://d1haeak33ufwuv.cloudfront.net/22750c962690de6e3e1e5f23c07ad2bdf93606f5.jpg"
+               }
+               ]
+}
