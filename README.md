@@ -11,6 +11,13 @@
 ![](/Screenshots/IMG_8930.png)
 ![](/Screenshots/IMG_8931.png)
 
+## Features
+- [x] Support an arbitrary number of videos
+- [x] Navigation between videos by scrolling horizontally
+- [x] Toggling playback with a button
+- [x] Seeking in the video using a slider
+- [x] Automatically advancing to the next video when the current video finishes
+
 ## Reference
 - [AVFoundationQueuePlayer-iOS](https://developer.apple.com/library/content/samplecode/AVFoundationQueuePlayer-iOS/Introduction/Intro.html)
 
