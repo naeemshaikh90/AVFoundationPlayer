@@ -179,7 +179,7 @@
 				TargetAttributes = {
 					B49CBDE91F2315F70034B79F = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = HQX3323RTU;
+						DevelopmentTeam = 5H7H56C3YU;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -189,6 +189,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -357,7 +358,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = HQX3323RTU;
+				DEVELOPMENT_TEAM = 5H7H56C3YU;
 				INFOPLIST_FILE = AVFoundationPlayer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -370,7 +371,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = HQX3323RTU;
+				DEVELOPMENT_TEAM = 5H7H56C3YU;
 				INFOPLIST_FILE = AVFoundationPlayer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
